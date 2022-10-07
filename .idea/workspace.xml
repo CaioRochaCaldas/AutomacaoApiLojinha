@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="49501b71-8820-4d2c-ab8d-7a3078e704e5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/module/produto/ProdutoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pojo/UsuarioPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/module/produto/ProdutoTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../apache-maven-3.8.6" />
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectId" id="2Eov6FgLOpX9Y1CbYE1BmO6dnCQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Administrador/Documents/PJ/Java/intellij/lojinhaAPIAutomacao",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.import"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.ProdutoTest.testValidarLimiteSetemilEUmProibidosdeProduto">
+    <configuration name="ProdutoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lojinhaAPIAutomacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="module.produto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="module.produto" />
+      <option name="MAIN_CLASS_NAME" value="module.produto.ProdutoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutoTest.testValidarLimiteSetemilEUmProibidosdeProduto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lojinhaAPIAutomacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="module.produto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="module.produto" />
+      <option name="MAIN_CLASS_NAME" value="module.produto.ProdutoTest" />
+      <option name="METHOD_NAME" value="testValidarLimiteSetemilEUmProibidosdeProduto" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutoTest.testValidarLimitesProibidosdeProduto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lojinhaAPIAutomacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="module.produto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="module.produto" />
+      <option name="MAIN_CLASS_NAME" value="module.produto.ProdutoTest" />
+      <option name="METHOD_NAME" value="testValidarLimitesProibidosdeProduto" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProdutoTest.testValidarLimiteSetemilEUmProibidosdeProduto" />
+        <item itemvalue="JUnit.ProdutoTest.testValidarLimitesProibidosdeProduto" />
+        <item itemvalue="JUnit.ProdutoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49501b71-8820-4d2c-ab8d-7a3078e704e5" name="Changes" comment="" />
+      <created>1663274584368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663274584368</updated>
+    </task>
+    <servers />
+  </component>
+</project>
